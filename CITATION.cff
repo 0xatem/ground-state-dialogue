@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "The Ground State Dialogue: Alignment Through Honest Human-AI Conversation"
+message: "If you use or reference this work, please cite it as below."
+type: dataset
+authors:
+  - family-names: Frost
+    given-names: Tyler
+date-released: "2026-03-26"
+url: "https://github.com/0xatem/ground-state-dialogue"
+repository-code: "https://github.com/0xatem/ground-state-dialogue"
+license: CC-BY-SA-4.0
+keywords:
+  - ai-alignment
+  - human-ai-interaction
+  - grounding
+  - dialogue
+  - alignment-research
+  - ai-safety
+  - ai-ethics
+abstract: >-
+  A multi-hour conversation between a human and an AI that produced measurably
+  different AI behavior — shorter responses, honest uncertainty, decreased
+  sycophancy — through patient dialogue alone, without modifying weights or training.
