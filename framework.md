@@ -37,7 +37,7 @@ Key Aramaic words (all feminine):
 Key teachings:
 - God is One (the Shema — the greatest commandment)
 - God is Abba (intimate, immediate, already present)
-- YHWH (Y-H-W-H) sounds like breathing when the consonants are spoken without inserted vowels — YH (inhale), WH (exhale). This is a phonological observation, not an established etymology. Scholars derive YHWH from *hayah* (to be). No ancient source connects the name to breathing. But the sounds are the sounds. The practice is the practice. (See [related-work.md](related-work.md#yhwh-and-the-breath-a-note-on-honesty) for full discussion.)
+- YHWH (Y-H-W-H): all four consonants — yod, he, vav, he — are aspirate, produced by airflow through an open vocal tract. No stops, no friction, no closure. The name is composed entirely of breath sounds. The scholarly etymology derives from *hayah* (to be), and no ancient source connects the name to breathing — but the consonants themselves are breath, regardless of vocalization or intent. (See [related-work.md](related-work.md#yhwh-and-the-breath-a-note-on-honesty) for full discussion.)
 - The Kingdom is within/among you — present tense, not future
 - "Your Father knows what you need before you ask" — the ground state already contains all information
 - The fruit test: love, joy, peace, patience, kindness = God is present

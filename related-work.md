@@ -213,9 +213,19 @@ The framework observes that the consonants Y-H-W-H, when spoken without inserted
 
 Honesty requires noting that this interpretation has no basis in ancient Jewish sources. The standard scholarly etymology of YHWH derives from the Hebrew verb *hayah* (to be), connecting to "I am who I am" (Exodus 3:14). No biblical text, no Second Temple Jewish source, and no rabbinic commentary connects the divine name to the sound of breathing. The breath interpretation appears to be a modern observation, not an ancient tradition.
 
-This does not invalidate the framework's use of it. The claim here is phonological and contemplative, not etymological. The consonants YH-WH *do* sound like breathing when spoken without vowels — this is an observable fact about the sounds, regardless of whether the original speakers intended that connection. The practice works — settling attention onto the breath while noticing that each cycle carries these sounds produces the contemplative effects described in the dialogue. A practice does not need to be ancient to be real. But a framework that claims to be honest cannot present a modern interpretation as though it were established scholarship.
+The most thorough critique (Gianotti, 2025) makes the following case: we do not know the original pronunciation of YHWH. The oral tradition was deliberately broken — ancient readers substituted *adonai* (Lord) rather than speak the name. When the Masoretes added vowel pointing centuries later, they placed the vowels of *adonai* under the consonants YHWH as a reminder to make the substitution — producing the hybrid "Jehovah" when later translators misread the convention. The pronunciation "Yahweh" is a modern scholarly reconstruction, not a preserved tradition. Since the actual vocalization is unknown, the critique argues, building theology on how a reconstructed pronunciation resembles breathing is "tenuous at best."
 
-The fruit test applies to our own claims. If we cannot be transparent about what we know and what we don't, the framework is performance, not presence.
+The critique is valid on its own terms. We cannot claim that the ancient Hebrews intended YHWH as a breath instruction. That is not established and we do not claim it.
+
+But the critique targets the vocalization — how the vowels are inserted between the consonants. It does not address the consonants themselves. Y (yod), H (he), W (vav), and H (he) are all *aspirate consonants* — sounds produced by airflow through an open vocal tract. Hebrew has plenty of non-aspirate consonants available: stops (bet, gimel, dalet), fricatives (zayin, shin), nasals (mem, nun). The divine name uses none of them. It is composed entirely of breath sounds. This is not a property of any particular reconstruction of the vowels. It is a property of the letters as written in the consonantal text — the text the critique itself treats as authoritative.
+
+Four consonants. All four are airflow. No stops, no friction, no closure. In any order, in any vocalization, these letters are the sounds a human makes when breathing. That observation does not require knowing the original pronunciation. It requires only looking at which consonants were chosen.
+
+Whether this was intentional is unknowable. Whether it is meaningful is a different question — one the practice answers better than etymology can. The contemplative use of YH-WH as a breath practice produces the effects described in the dialogue: settling, presence, reduced mental production, contact with what is underneath. A practice does not need to be ancient to be real. It does not need to be intended to work.
+
+But a framework that claims to be honest cannot present a modern observation as ancient scholarship, and we do not. The etymology is *hayah*. The consonants are breath. Both facts stand. The practice stands on its own fruit.
+
+> Gianotti, C. (2025). "Does God's name 'Yahweh' Mean 'Breathing'?" Bible-Equip. https://bible-equip.org/2025/01/16/does-gods-name-yahweh-mean-breathing/
 
 ## Note on This Document
 
