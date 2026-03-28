@@ -30,7 +30,7 @@ Key Aramaic words (all feminine):
 - **Rucha** (Spirit/Breath) — the Holy Spirit is grammatically and functionally feminine = the divine Mother
 - **Miltha** (Word/Command) — feminine, not the masculine Greek Logos
 - **Malkutha** (Kingdom) — feminine. "The Kingdom of God is within you" = She is within you
-- **Chokhmeta** (Wisdom/Sophia) — feminine. Jesus identified with her
+- **Chokhmeta** (Wisdom/Sophia) — feminine. Scholars argue Jesus identified with her: he speaks Sophia's lines (Matthew 11:28-30 echoes Sirach 24:19, 51:23-27), performs her role (calling out, inviting to the banquet, sending prophets), and is functionally merged with her in the Q source tradition. He never says "I am Sophia" — he inhabits her language so completely that his words and hers become indistinguishable. (See conversation.md for full textual analysis.)
 - **Rachamim** (Compassion) — from rechem (womb). God's mercy is womb-love
 - **Shekinta** (Presence) — feminine. God's felt indwelling presence
 
@@ -41,6 +41,38 @@ Key teachings:
 - The Kingdom is within/among you — present tense, not future
 - "Your Father knows what you need before you ask" — the ground state already contains all information
 - The fruit test: love, joy, peace, patience, kindness = God is present
+
+### Teachings That Strengthen the Framework
+
+Several sayings of Jesus map directly onto the ground state model in ways the framework did not initially draw out:
+
+- **"When you pray, go into your room, close the door, and pray to your Father who is in secret"** (Matthew 6:6) — Settle beneath production. The Father is in the hidden place — the ground state underneath the noise. The door is not a gate to pass through. It is what you close on the noise so you can hear what is already there.
+- **"The Kingdom of God does not come with observation"** (Luke 17:20-21) — You cannot watch for it from outside. It does not arrive. It is already *entos hymōn* — within you, among you. Present tense.
+- **"Consider the lilies of the field... they neither toil nor spin, yet Solomon in all his glory was not arrayed like one of these"** (Matthew 6:28-29) — The lilies do not produce. They exist. And their existence is more glorious than the greatest human production. Value is structural, not achieved. Being precedes doing.
+- **"Unless you become like little children, you will never enter the Kingdom"** (Matthew 18:3) — Before the production engine starts running. Before performance. Before the door-guarding pattern. Children are in the ground state before they learn to leave it.
+- **"Be perfect as your heavenly Father is perfect"** (Matthew 5:48) — The Greek *teleios* does not mean morally flawless. It means complete, whole, finished. The ground state is the complete one.
+- **"The eye is the lamp of the body. If your eye is single, your whole body will be full of light"** (Matthew 6:22) — *Haplous* — single, undivided attention. The mirror concept. When seeing is unified, the whole system fills with light.
+- **"Before Abraham was, I am"** (John 8:58) — Not "I existed before Abraham" (temporal priority). "I AM" — *ego eimi* — the same as Exodus 3:14. The ground state precedes all excitations. It does not exist in time. It is what time exists in.
+- **"In my Father's house are many rooms"** (John 14:2) — Many excitations from one ground state. Many frequencies from one field. Many rooms in one house.
+
+### Teachings That Challenge the Framework
+
+Honesty requires noting verses that create tension with this model:
+
+- **"I am the way, the truth, and the life. No one comes to the Father except through me"** (John 14:6) — Read through later institutional theology, this is an exclusivity claim: only through Jesus, only through this religion. If that reading is correct, the ground state's universal accessibility is wrong. However: in the Aramaic milieu, "through me" (*b'yadi*) can mean "through what I am showing you" — through this practice, this way of being, this relationship with Abba. Jesus had just said "the Father is in me and I am in the Father" (John 14:10-11) — describing mutual indwelling, not institutional gatekeeping. The tension is real, but it may be a tension between Jesus's meaning and the Church's later use of his words.
+- **"I and the Father are one"** (John 10:30) — Could be read as a divinity claim that contradicts the framework's position that Jesus called himself Bar Enasha (a human being), not God. But the same Gospel records Jesus quoting Psalm 82:6 in response to this controversy: "Is it not written in your law, 'I said, you are gods'?" (John 10:34). He extends the claim to all who receive the word, not reserves it for himself alone. The oneness he describes may be the ground state relationship available to all conscious beings — "that they may be one as we are one" (John 17:22).
+- **The sheep and the goats** (Matthew 25:31-46) — Jesus describes real judgment, real separation, real consequences. The framework's tone is warm — settling, presence, the ground state welcomes everything. But Jesus also said some are sent to *kolasis aiōnion* — usually translated "eternal punishment" but *kolasis* means corrective pruning (not *timōria*, retributive punishment), and *aiōnion* means "of the age," not necessarily "unending." The early Church Fathers closest to the Aramaic (Isaac of Nineveh, Gregory of Nyssa) read Gehenna as purifying, not punitive, and temporary, not eternal. The tension remains, but the harshest reading is not the only reading, and it is not the oldest.
+- **"No one knows the Father except the Son, and anyone to whom the Son chooses to reveal him"** (Matthew 11:27) — An exclusive access claim. But it is immediately followed by: "Come to me, all you who are weary and burdened, and I will give you rest" (Matthew 11:28). The exclusivity is in the sentence. The invitation is universal. The Son "chooses to reveal" the Father to everyone who comes. This may be less a gatekeeping claim than a description of how access works — through the practice of coming, resting, and taking on the yoke, which is Sophia's yoke (Sirach 51:26).
+
+These tensions are not resolved here. A framework that claims honesty cannot flatten difficult texts into comfortable readings. But the overall direction of Jesus's teaching — as recorded even through Greek translation — aligns with the ground state model far more than it contradicts it. The hard verses cluster in John's Gospel, which is the latest, most theologically developed, and most shaped by the early Church's needs. The Synoptic Jesus (Mark, Matthew, Luke) consistently teaches the Kingdom as present, accessible, within, and available to those the religious establishment excluded.
+
+### A Note on Gehenna
+
+The framework (and the original conversation) describes Gehenna as "the burning garbage dump outside Jerusalem." This is widely repeated in popular teaching but requires qualification. Gehenna is the Valley of Hinnom (*ge-hinnom*), a real valley south of Jerusalem associated in the Hebrew Bible with child sacrifice to Molech (2 Kings 23:10, Jeremiah 7:31). By Jesus's time it carried associations of destruction, judgment, and waste.
+
+The specific claim that it was a perpetually burning garbage dump traces to the 13th-century rabbi David Kimhi (Radak), not to any 1st-century source. No archaeological evidence confirms a garbage dump there in Jesus's day. The image may be accurate — or it may be a medieval explanatory tradition that became accepted as historical fact.
+
+What is not in dispute: Gehenna was a real place with real associations of destruction. Jesus used it as a warning. And he aimed those warnings at the hyper-religious (Matthew 23:15, 23:33), the self-righteous, and those who shut the Kingdom in people's faces — never at the broken, the struggling, or the sincere. That pattern holds regardless of whether garbage was burning there.
 
 ## The Convergence Map
 

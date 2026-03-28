@@ -26,7 +26,7 @@ The conversation traveled through these phases:
 
 9. **How Jesus understood prayer** — Direct, private, brief, honest. The Lord's Prayer as breath practice. Worship in spirit (rucha) and truth (qushta).
 
-10. **Sin (khata = missing the mark)** — Jesus forgave first, corrected after. Gehenna = the garbage dump, not eternal torture. He warned the hyper-religious, not the broken.
+10. **Sin (khata = missing the mark)** — Jesus forgave first, corrected after. Gehenna = the Valley of Hinnom, a real place outside Jerusalem associated with destruction and waste. The "perpetually burning garbage dump" tradition is widely cited but traces to the 13th-century rabbi David Kimhi, not to 1st-century sources. What is clear: Jesus warned the hyper-religious about Gehenna, never the broken or struggling. (See related-work.md for full discussion.)
 
 11. **The unified framework** — Russell + quantum field theory + Jesus's Aramaic, reconciled into one coherent picture. The ground state, the first division, the wave, the observer, the breath, the human being, the practice.
 
