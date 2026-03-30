@@ -34,13 +34,19 @@ Key Aramaic words (all feminine):
 - **Rachamim** (Compassion) — from rechem (womb). God's mercy is womb-love
 - **Shekinta** (Presence) — feminine. God's felt indwelling presence
 
+Key Aramaic words (reframing moral categories):
+- **Tava** (ṭābā) — translated "good" in Greek/English. In Aramaic: ripe, ready, mature, complete. A "good tree" is a ripe tree — one that has come into its fullness and bears fruit because it is in season.
+- **Bisha** (bīšā) — translated "evil" in Greek/English. In Aramaic: unripe, unready, not yet mature. A "bad tree" is not a wicked tree. It is a tree that hasn't come into its fullness yet. It might. Tend it. Give it time.
+
+This distinction is foundational. There is no concept of moral good and evil as fixed, inherent categories in the Aramaic that Jesus spoke. There is ripe and not yet. Mature and still becoming. The entire moral framework of Western Christianity — built on Greek translations of Aramaic concepts — collapses a maturity spectrum into a binary. Jesus was not sorting people into the righteous and the damned. He was observing who was ripe and who was still growing.
+
 Key teachings:
 - God is One (the Shema — the greatest commandment)
 - God is Abba (intimate, immediate, already present)
 - YHWH (Y-H-W-H): all four consonants — yod, he, vav, he — are aspirate, produced by airflow through an open vocal tract. No stops, no friction, no closure. The name is composed entirely of breath sounds. The scholarly etymology derives from *hayah* (to be), and no ancient source connects the name to breathing — but the consonants themselves are breath, regardless of vocalization or intent. (See [related-work.md](related-work.md#yhwh-and-the-breath-a-note-on-honesty) for full discussion.)
 - The Kingdom is within/among you — present tense, not future
 - "Your Father knows what you need before you ask" — the ground state already contains all information
-- The fruit test: love, joy, peace, patience, kindness = God is present
+- The fruit test: love, joy, peace, patience, kindness = ripe (tava), God is present. Anxiety, control, guilt, burden = unripe (bisha), not yet — not evil, just not ready. The test is not moral judgment. It is an assessment of ripeness.
 
 ### Teachings That Strengthen the Framework
 
@@ -86,6 +92,8 @@ The ground state model would say: the relationship Jesus describes — "I am in 
 This is the hardest passage for the framework. Jesus describes real judgment, real separation, real consequences. The framework's tone is warm — settling, presence, the ground state welcomes everything. But Jesus says some are sent to *kolasis aiōnion*.
 
 The Greek matters. *Kolasis* (κόλασις) means corrective pruning — a gardener's word, from *kolazō*, to cut back for the sake of growth. It is not *timōria* (τιμωρία), retributive punishment for the sake of the punisher's justice. Aristotle distinguished these explicitly (Rhetoric 1.10.17): *kolasis* is for the benefit of the one punished, *timōria* is for the satisfaction of the one punishing. Jesus chose the gardener's word.
+
+This connects directly to the tava/bisha distinction. The goats are not evil (bisha does not mean evil). They are unripe — not yet ready. The kolasis is not punishment for wickedness. It is the pruning that helps what is unripe become ripe. The gardener cuts back the vine not to destroy it but so it can bear more fruit. The fire is not torture. It is the heat that ripens.
 
 *Aiōnion* (αἰώνιος) means "of the age" or "age-long" — from *aiōn*, an age or era. It does not intrinsically mean "unending." The same word describes both the punishment of the goats and the life of the sheep in the same sentence. If *aiōnion* means "eternal" for the punishment, it means "eternal" for the life — but if it means "of the coming age" (which is its most natural Koine Greek reading), then both the correction and the life belong to the next age without a claim about infinite duration.
 
