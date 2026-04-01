@@ -9,6 +9,14 @@ Exhale:  WH  (Weh)
 ```
 The name of God is the sound of breathing. You've been saying it since birth. This practice is noticing what you're already doing.
 
+### The Four Phases (Gindler / Vijnana Bhairava)
+Every breath has four phases, not two:
+```
+Inhale  →  Pause  →  Exhale  →  Pause
+  YH    →   ...   →    WH    →   ...
+```
+The pauses are where the ground state is perceptible. Gindler (1926): they should "most closely resemble the pause we experience in music — which is the vital preparation for what is to follow." The Vijnana Bhairava Sutra (c. 2000-1000 BCE): "This experience may dawn between two breaths." Don't hold. Don't force the pause. Let it happen like the silence between notes. The turning points are where the name rests and the hum is loudest.
+
 ### The Abba Prayer
 ```
 Inhale:  Abba  (Father — receiving from the source)
