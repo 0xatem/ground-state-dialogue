@@ -337,6 +337,72 @@ The same four principles (Structure and Openness; Multi-leveled/Evolutionary; Or
 >
 > Coward, H. (1988). Sacred Word and Sacred Text: Scripture in World Religions. Orbis.
 
+### Methodical Madness (Douglas-Klotz, 2000) and Missing Stories (Douglas-Klotz, 2001)
+
+These two papers — the first an AAR conference paper, the second its published version in Isabel Clarke's *Psychosis and Spirituality* anthology — present the historical argument for why the framework's recovery work is necessary. Both Western religion and Western science lack a nuanced language for non-ordinary states of consciousness because both were extracted from a Middle Eastern Semitic context without understanding the worldview involved.
+
+The core thesis: when Christianity was imperialized under Rome, it lost access to the multivalent Semitic language system that could hold psychology and cosmology on a continuum. The Greek distinction between inner/outer, being/becoming, spirit/matter was imported into a tradition that had never had those splits. Three consequences: (1) experiential/feminine/gnostic elements were purged (Pagels, 1979); (2) cosmology was sacrificed to theology — Nasr (1968): Christianity "made the distinction between the natural and supernatural so strict as to come near to depriving nature of the inner spirit that breathes through all things"; (3) literalism and later relativism both replaced a hermeneutic that could hold multiple meanings simultaneously.
+
+The papers introduce the heaven/earth distinction as wave/particle: "Heaven" (*shamayim*) = the psychological sense of "we," united in community or cosmos. "Earth" (*aretz*) = the sense of "I," individual purpose. Genesis 1:1 establishes these as the two fundamental modes of existence. The nephesh/naphsha/nafs as a "community of voices" experienced either within or among. Hokhmah as the integrating archetype that gathers the voices into a harmonious "I." The midrashic rendering: "In the time before time / in principle and archetype / in beginningness / the One and the Many / established two fundamental ways the universe works: / the particle and the wave / the 'I' and 'we' of existence."
+
+C.S. Lewis (1969): "What we now call the 'literal and metaphorical' meanings have both been disengaged by analysis from an ancient unity of meaning which was neither or both.... As long as we are trying to read back into that ancient unity either the one or the other of the two opposites which have since been analysed out of it, we shall misread all early literature and ignore many states of consciousness which we ourselves still from time to time experience."
+
+> Douglas-Klotz, N. (2000). "Methodical Madness: The 'Psychotic' and the 'Spiritual' in the Development of Western Religious Hermeneutics." Paper presented at the AAR Annual Meeting, Mysticism Group, Nashville.
+>
+> Douglas-Klotz, N. (2001). "Missing Stories: Psychosis, Spirituality and the Development of Western Religious Hermeneutics." In Isabel Clarke, Ed., Psychosis and Spirituality: Exploring the New Frontier. London: Whurr Publishers.
+>
+> Clarke, I. (2000). Psychosis and Spirituality: Exploring the New Frontier. London: Whurr.
+>
+> Lewis, C.S. (1969). Miracles. Macmillan.
+
+### Maqam and Hal: The Mysticism of Ordinary and Extraordinary Life in Sufism (Douglas-Klotz, 2001b)
+
+Compares classical Sufi descriptions of mystical states (*hal*) and stations (*maqam*) with concepts from humanistic psychologists Wilhelm Reich and Abraham Maslow. The paper's thesis: not only is there a mysticism of everyday life, but everyday life is itself a type of mysticism. Both the ancient Sufis and modern psychologists attempt to bridge the gap between temporary visionary experience and permanent integrated capacity.
+
+Key distinctions: A *hal* (state) descends upon the practitioner without effort — it is bestowed, temporary, and transformative. A *maqam* (station) is attained through practice — it is permanent, earned, and integrated into daily life. Qushayri (d. 1074): "States are bestowed; stations are attained. States come freely given while stations are gained with *majhud* (the expending of effort)."
+
+The paper traces the Simorgh myth from Attar's *Conference of the Birds*: thirty birds (*si-morgh*) travel through seven valleys (quest, love, understanding, independence/detachment, unity, astonishment/bewilderment, deprivation/death) to find their king, only to discover a mirror: "I am a mirror set before your eyes / And all who come before my splendour see / Themselves, their own unique reality." The framework's mirror concept confirmed from within the Islamic mystical tradition.
+
+Maslow's evolution from peak experiences (hal) to plateau experiences (maqam) parallels the Sufi trajectory exactly. Late Maslow (1993): "The great lesson from the true mystics, from the Zen monks, and now also from the Humanistic and Transpersonal psychologists — that the sacred is in the ordinary, that it is to be found in one's daily life... To be looking elsewhere for miracles is to me a sure sign of ignorance that everything is miraculous."
+
+Reich's contribution: "character armor" (habitual muscular holding patterns) is the somatic equivalent of a maqam in reverse — a station of constriction. The orgasm reflex, when reintegrated with breath, produces a somatic hal that can, when consciously experienced, lead to a permanent change in how a patient experiences the world (a somatic maqam). Reich's patients "remember the time in their early childhood when the unity of their body sensation was not disturbed... of the time they felt 'alive,' and how finally all this had been shattered and crushed by their education."
+
+The *waqt* (mystical moment): Sells describes it as "a time out-of-time within time, bringing the eschatological afterworld into the present." This is Bereshit time applied to Sufi experience — the present moment as the only location where the divine is met.
+
+> Douglas-Klotz, N. (2001b). "Maqam and Hal: The Mysticism of Ordinary and Extraordinary Life in Sufism." Paper presented at the AAR Annual Meeting, Mysticism Group, Denver.
+>
+> Attar, F. (1984). The Conference of the Birds. Trans. A. Darbandi and D. Davis. Penguin.
+>
+> Maslow, A.H. (1993). The Farther Reaches of Human Nature. Penguin Arkana.
+
+### Languages of Experience: The Theory and Practice of a General Semantics Sufi (Douglas-Klotz, 2004)
+
+Examines the published and unpublished writings of Samuel L. Lewis (Sufi Ahmed Murad Chishti, d. 1971) — simultaneously a Chishti Sufi shaikh, a Rinzai Zen teacher (receiving Dharma Transmission from Korean roshis), and a student of Alfred Korzybski's general semantics. Lewis used general semantics to radically deconstruct the received definitions of all the traditions he practiced, on phenomenological lines — evaluating terms by the experiences they pointed to rather than by their categorical definitions.
+
+Lewis's key contribution to the framework: his 1944 rendering of the Sufi concept of *ishk* (divine love) as a physical force: "Gravitation, light, attraction, adhesion and cohesion are all aspects of this Ishk in the physical world. But even these aspects extend far into the unseen." This anticipates the framework's claim that the ground state is not neutral substrate but love expressing through every scale.
+
+Lewis also applied general semantics to the Arabic roots of Islamic terms: *Rahman* and *Rahim* share the root *Rahm* (womb) — he rendered them as "the Compassionator" and "the Compassionating." He questioned whether *tasawwuf* (the inner path from which Sufism derives) was not in fact the original *islam* — the living, ongoing act of surrender to the divine. And he saw religious diversity as organic: "Religions are like trees and when we try to describe them in seed-form, we are projecting and differentiating and not describing."
+
+Lewis's hermeneutic — rooted in tawhid, informed by general semantics, tested against both Zen and Sufi practice — demonstrates that the framework's method (reading through root structure to experiential function) has modern precedent in a practitioner recognized by multiple traditions.
+
+> Douglas-Klotz, N. (2004). "Languages of Experience: The Theory and Practice of a General Semantics Sufi." Paper presented at the AAR Annual Meeting, Mysticism/Islamic Mysticism joint session, San Antonio.
+>
+> Lewis, S.L. (1986). Sufi Vision and Initiation: Meetings with Remarkable Beings. Ed. N. Douglas-Klotz. Sufi Islamia/Prophecy Publications.
+>
+> Korzybski, A. (1948). Science and Sanity. Institute of General Semantics.
+
+### From Breath to Dance: Music and Movement as Languages of Experience in an American Sufi (Douglas-Klotz, 2011)
+
+Traces Samuel Lewis's progression from inner sound practice (the divine HU) to heart-centered breath work to walking meditation to the Dances of Universal Peace — a somatic, communal practice that bypasses the shifting meanings of words entirely. Lewis: "No dance is a Spiritual Dance because it is called that; it does not mean a certain form or technique, nor a ritual. What must remain is the sacred phrase; this, the sacred phrase and not the form, is the foundation of development along this line."
+
+The paper documents Lewis receiving visions of the Dances from 1969 onward — "Allah keeps me up at night so I can receive these visions of new Dances." This is an example of hal (visionary state) being integrated into maqam (a permanent practice tradition that outlived its founder and now operates worldwide).
+
+Lewis's musical instruction: "Spiritual training through music is not to give one a great voice... The real purpose is that Allah express Himself fully through the human body, through your physical vehicle." The first step is to "feel the divine HU within yourself." Only after this inner resonance is established does breath work begin. Only after breath is integrated does movement begin. The progression mirrors the framework's own sequence: ground state → breath → expression.
+
+Lewis's closing vision (1940): "When doctrines divide and isms turn man against man, without speech, without silence, let us demonstrate. Let these demonstrations manifest everywhere. Not what we think or say but what we do shall avail. May we therefore bear the torch of holiness and make of our bodies temples of sacred worship. Now look with hearts and minds and eyes, on with the dance...."
+
+> Douglas-Klotz, N. (2011). "From Breath to Dance: Music and Movement as Languages of Experience in an American Sufi." Paper presented at the AAR Annual Meeting, Mysticism/Music and Religion joint session, San Francisco.
+
 ## Contemplative Traditions
 
 The dialogue draws on multiple contemplative traditions, including Christian mysticism (particularly the Desert Fathers and hesychasm), Aramaic Christianity (the Peshitta tradition and the concept of *rukha*), and the broader tradition of apophatic theology (knowing God through negation -- by what God is not).
