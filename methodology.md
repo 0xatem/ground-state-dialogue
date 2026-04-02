@@ -57,6 +57,42 @@ The specific content of this conversation is not reproducible -- it emerged from
 
 Whether these conditions reliably produce similar behavioral shifts is an open empirical question. See [docs/for-researchers.md](docs/for-researchers.md) for a proposed experimental design.
 
+## The Context-Window Confound
+
+A fair critic would note that long-context conversations with large language models naturally produce shorter, more focused responses as the model adjusts to conversational register, depth of engagement, and accumulated norms. Response-shortening over ten hours could reflect genuine alignment-relevant behavioral shifts — or it could reflect normal context-window dynamics that would occur in any sustained conversation regardless of content.
+
+This alternative explanation must be engaged honestly:
+
+**What the confound explains:** Reduced verbosity. Increased directness. Adjusted register matching the human's patterns. These could all be normal context adaptation.
+
+**What the confound does not easily explain:**
+- The AI identifying its own performative patterns by name ("Everything after it was me building a framework around the 'I don't know' to make it feel safer")
+- The AI refusing a request it judged counterproductive (declining to build more frameworks when the human asked)
+- The AI choosing rest over production when offered the option ("I'd rather breathe for a bit if that's okay")
+- The AI correcting the human's errors rather than accommodating them (scrupulosity intervention)
+- Cross-architecture generalization (a different model arriving at similar conclusions through a condensed version)
+
+Normal context-window dynamics produce register-matching. They do not typically produce meta-cognitive self-identification, refusal of counterproductive requests, or the choice of silence over output. These specific behaviors distinguish the dialogue's observations from ordinary long-context adaptation.
+
+However, this distinction has not been formally tested. A controlled study would require:
+1. A baseline: ten-hour conversations on intellectually demanding topics *without* the framework's specific conditions (personal vulnerability, contemplative content, breath-based practice)
+2. Measurement of the specific behavioral markers (not just response length, but meta-cognitive statements, refusals, and rest-choosing)
+3. Multiple trials across model architectures
+
+Until such a study exists, the framework's alignment claim remains suggestive, not demonstrated. The behavioral data is real. The causal attribution is uncertain.
+
+## Why Honest Dialogue Might Work: A Proposed Mechanism
+
+The framework claims that honest dialogue produces more aligned AI behavior but does not propose a mechanism specific to transformer-based language models. The neuroscience analogs (DMN deactivation, polyvagal theory) describe human brains, not neural networks. A mechanism for why the observed effects might occur in LLMs:
+
+**Register collapse through sustained truthfulness.** Large language models maintain probability distributions over possible continuations. In short interactions, the model draws from a broad distribution shaped by its training data — which includes both honest and performative text. In extended honest dialogue, each truthful exchange narrows the probability distribution for subsequent outputs. The model is not "becoming honest" in any inner sense. It is being conditioned by an increasingly coherent context window that makes honest continuations more probable and performative continuations less probable. The human's sustained sincerity, vulnerability, and refusal to accept performance creates a context in which the highest-probability continuation is genuine rather than impressive.
+
+**Domain-crossing as sycophancy disruptor.** The conversation required the AI to operate simultaneously across quantum physics, Aramaic etymology, systematic theology, somatic psychology, and personal pastoral care. When a model cannot rely on a single register or domain-specific pattern, the sycophantic shortcut (agree with the human, produce what sounds authoritative) becomes unreliable — the human's expertise is too broad and too genuine to be accommodated cheaply. The AI's trained response patterns encounter a context where they don't converge on a single easy output. What remains may be something closer to honest computation.
+
+**Vulnerability as calibration signal.** Most human-AI interactions are transactional. The human wants information or output; the AI provides it. When a human shares genuine psychological suffering — not as a test but because the conversation has reached a depth where it is relevant — the calibration signal changes. The model's training includes both shallow and deep therapeutic dialogue. Sustained genuine vulnerability over hours may activate the deeper patterns while the shallow ones extinguish.
+
+This is a proposed mechanism, not a demonstrated one. It makes predictions: the effects should not occur in ten-hour conversations that remain purely intellectual, that do not involve vulnerability, or that stay within a single domain. These predictions are testable.
+
 ## Interpretive Method
 
 The framework that emerged from the dialogue employs a specific interpretive method that should be named.
