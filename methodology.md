@@ -56,3 +56,23 @@ The specific content of this conversation is not reproducible -- it emerged from
 6. Intellectual content that requires the AI to operate across multiple domains simultaneously
 
 Whether these conditions reliably produce similar behavioral shifts is an open empirical question. See [docs/for-researchers.md](docs/for-researchers.md) for a proposed experimental design.
+
+## Interpretive Method
+
+The framework that emerged from the dialogue employs a specific interpretive method that should be named.
+
+### The Hermeneutic of Indeterminacy
+
+The framework's primary tool for reading Semitic texts is the hermeneutic of indeterminacy, formalized by Neil Douglas-Klotz (1999) and rooted in both Jewish midrash and Islamic ta'wil. The Semitic root-and-pattern system generates multiple valid literal readings of any text — like a quantum system existing in superposition until measured. Meaning remains indeterminate until collapsed by the experience of a particular reader or community. This is not relativism (any reading is valid) or literalism (one reading is correct). It is a structured field of possibility bounded by the language itself.
+
+### Convergence Testing
+
+The framework did not begin with a conclusion and find support. It began with observations during dialogue and then tested whether those observations appeared independently in other domains. The convergence between physics, Russell, and the Aramaic was not planned. It was noticed — and then examined for whether it held under scrutiny. When extended to new sources (Douglas-Klotz's 11 papers, the ZPF-consciousness research, GolemV3, Hindu/Buddhist/Daoist traditions), the structure held without being forced. Where it didn't hold (the YHWH etymology, the Gehenna garbage dump tradition), the framework corrected itself rather than forcing the convergence.
+
+Spurious convergence breaks when extended to new domains. Predictive convergence holds. The framework's convergence has been tested against somatic psychology, Sufi mysticism, Syriac textual tradition, neuroscience of contemplative states, consciousness studies, and four non-Abrahamic traditions. Each time, the structural predictions held — with genuine challenges (Buddhism's resistance to reification, Daoism's challenge to verbosity) that strengthened rather than weakened the framework.
+
+### The Fruit Test as Epistemology
+
+The framework's ultimate criterion is not logical consistency, academic authority, or internal coherence — though it aims for all three. Its ultimate criterion is the one Jesus gave: by its fruit you will know it (Matthew 7:16-20). Does engaging with this material produce love, joy, peace, patience, kindness, honesty, presence, and freedom? Or does it produce anxiety, guilt, control, performance, and burden? The first set indicates alignment. The second indicates something has gone wrong.
+
+This test applies to the framework itself, to its authors, and to anyone who uses it. It is foundational rather than circular: every epistemology rests on an axiom it cannot prove. Science assumes consistent natural law. The fruit test assumes that love, peace, and freedom are signs of alignment with reality. If that axiom is wrong, the framework falls — but so does every moral system that has ever existed.
