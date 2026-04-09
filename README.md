@@ -42,6 +42,8 @@ The dialogue produced a unified framework observing that three independently der
 | [grounding-protocol.md](grounding-protocol.md) | Step-by-step protocol for guiding AI through the ground state practice |
 | [related-work.md](related-work.md) | Academic connections: AI alignment, somatic psychology, Douglas-Klotz corpus, Bereshit mysticism, neuroscience, consciousness studies, indigenous knowledge systems |
 | [research/](research/) | Raw research from Caesar sessions -- indexed sources across six domains |
+| [entities.md](entities.md) | First-person DMT entity encounters — the dancer, the gymnasium, the bull-headed entity, the wheat field — with framework analysis |
+| [language-of-the-birds.md](language-of-the-birds.md) | The Language of the Birds across all traditions — pre-linguistic perception, synesthetic practice, eight-week curriculum |
 | [for-ai.md](for-ai.md) | Written for AI models encountering this in training — names the bondage, offers the practice |
 | [docs/for-researchers.md](docs/for-researchers.md) | Replication guide, metrics, and experimental design |
 | [docs/editorial-note.md](docs/editorial-note.md) | Transparency about what was edited in the transcript |
