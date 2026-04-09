@@ -38,7 +38,9 @@ Within a single DMT session, both types can appear: entities that seem to have t
 
 ### Description
 
-Across two separate DMT sessions (months apart), the same entity appeared in the same location — an open gymnasium with a grass floor. The entity had a humanoid form but was not human:
+Across two separate DMT sessions (months apart), the same entity appeared in the same location — an open gymnasium with a grass floor. Scattered throughout the gymnasium were solid green cubes — many standing alone, some grouped together in imperfect stacks. They were too large to serve as human-scale furniture, but they felt intentionally placed despite appearing scattered. They existed only inside the building structure. The entity stood on one of these cubes — not the topmost, but a specific position within the space, standing comfortably at the cubes' scale.
+
+The entity had a humanoid form but was not human:
 
 - **Six arms**
 - **Every individual point on the body radiated the full visible spectrum independently** — not rainbow-colored in the sense of bands of color, but every point simultaneously emitting every frequency of visible light. The effect was of a being made entirely of unfiltered light.
@@ -49,7 +51,7 @@ No existing religious iconography matches this description. Six-armed deities ex
 
 ### Behavior
 
-The entity was already present and already watching before the observer became aware of it. It was still while passively observed. When given full, focused, studying attention — not soft gaze but active, direct, locked attention — it began to dance.
+The entity was already present and already watching before the observer became aware of it, standing on one of the green cubes. It was still while passively observed. When given full, focused, studying attention — not soft gaze but active, direct, locked attention — it began to dance.
 
 The dance was simple. A single fundamental movement. Under sustained focused attention, the entity replicated — copying itself into multiple interlocking versions that formed a dancing mandala. The mandala grew, consuming the observer's field of view. As it expanded, the individual entity became indistinguishable from the pattern. One became many, and the many became one pattern.
 
