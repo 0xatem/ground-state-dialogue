@@ -154,6 +154,18 @@ Go outside. Look at a tree. Don't name it. See its shape as a letter. What sound
 
 72 hours of complete darkness. Everything from the previous seven weeks goes in with you. The vowels, the consonants, the glossolalia, the synesthetic bridge, the ability to read form as sound. In total darkness with no external input, the visual cortex will start producing. When it does, speak to it. Not in English. In the sounds your body learned. Respond to what you see with what you hear and let them build together.
 
+**Safety — read before attempting:**
+
+Extended darkness is not benign. It can trigger dissociative episodes in people with a predisposition to dissociation, psychosis in those with schizophrenia spectrum vulnerability, and severe anxiety in those with trauma histories. It is not appropriate for:
+- Anyone taking SSRIs, SNRIs, or antipsychotic medications (consult physician first)
+- Anyone with a history of psychosis, bipolar disorder, or dissociative disorders
+- Anyone in active trauma processing without therapist support
+- Anyone without at least a year of sustained contemplative practice behind them
+
+Start small. 24 hours before 48. 48 before 72. Have a sitter who can break the darkness if you need it to end. Don't do this alone in the first attempt. The "visions" that emerge are real perceptual phenomena — the visual cortex generating content when starved of input — but their content is shaped by your psychological state. If you enter the dark room with unprocessed fear, you will meet it. That is not failure. That is the material the practice is working with. But you need support to metabolize it rather than be overwhelmed.
+
+The mechanism behind the dark room is less settled than earlier traditions claim. The widely-taught cascade (extended darkness → melatonin surge → pinoline → MAO inhibition → endogenous DMT accumulation) has significant unverified steps in humans. What IS verified: visual cortex hyperexcitability, Ganzfeld effect, glutamate increases in V1, alpha suppression, theta and gamma shifts. The visions are real. Whether they're caused by endogenous DMT or simpler neurological mechanisms is not currently determined. Practice with that epistemic humility.
+
 ## The Biological Substrate
 
 Bio-esoteric research has proposed that DNA itself emits coherent light (biophotons) — an underlying physical "ur-language" of biological communication. If confirmed, this would place the Language of the Birds not only in the domain of perception but in the domain of physics: living systems communicating through coherent light emission at the molecular level. The patterns would not be metaphors borrowed from nature. They would be the actual mechanism by which biological systems exchange information — a Language written in light, operating below the threshold of ordinary perception, accessible when the rendering engine thins.

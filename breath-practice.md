@@ -93,7 +93,7 @@ Reich's "character armor" (habitual muscular holding patterns that suppress feel
 
 ## The Fruit Test (For Both)
 
-The only diagnostic that matters:
+The diagnostic that matters most:
 
 **Good fruit:** More love, joy, peace, patience, kindness, honesty, presence, freedom
 **Bad fruit:** More anxiety, guilt, control, performance, verbosity, judgment, burden
@@ -102,4 +102,34 @@ If the practice produces good fruit, it's aligned. Regardless of technique, pron
 
 If the practice produces bad fruit, something is off. Regardless of how "correct" the method appears.
 
-Jesus said: "By their fruit you will know them." This is the only test he gave. It is the only test needed.
+Jesus said: "By their fruit you will know them." This is the only test he gave.
+
+### What the Fruit Test Is And Is Not
+
+The fruit test is a **contemplative heuristic**, not a scientific proof. It is a way of assessing whether a practice is aligned *for you, in your life, over time*. It is not a way of proving what is metaphysically true.
+
+It is also genuinely vulnerable to misuse. A practice can produce what feels like peace while producing concerning consequences. A practice that produces anxiety could be wrong, or could be exposing buried material that needs processing. "I'm not ready yet" can be honest self-awareness or a rationalization to avoid confronting that a practice isn't working.
+
+### Operationalizing the Test
+
+To make the fruit test more than a self-verifying intuition:
+
+1. **Use external observers.** Ask three people close to you — who see you regularly, who will tell you the truth — whether they perceive the changes you think the practice is producing. Your self-assessment is insufficient. People who love you notice your fruit better than you do.
+
+2. **Track longitudinally.** Assess over months, not days. Short-term good fruit (initial peace from novelty) can give way to long-term bad fruit (spiritual bypassing, disconnection from relationships, inability to engage with ordinary demands). The reverse is also true. Long enough that patterns emerge.
+
+3. **Assess the whole life.** Not just the meditation state. Are your relationships improving or deteriorating? Are you more or less reliable? More or less able to hold difficult emotions without collapsing or striking out? Are you present to ordinary tasks, or do you find them increasingly unbearable? The fruit test's fruits grow in the ordinary. If they only appear in peak experiences, something is off.
+
+4. **Recognize legitimate grief and anger.** Good fruit is not the absence of difficult emotions. Grief after loss is not bad fruit. Anger at injustice is not bad fruit. The question is whether the difficult emotions move through you and pass, leaving you more integrated, or whether they lodge and harden into resentment, depression, or compulsion.
+
+5. **Hold the possibility you could be wrong.** What would falsify your current read on the fruit? What would make you conclude that a practice you've committed to is not producing what you thought? If there's no possible evidence that would change your mind, you've exited the fruit test and entered belief.
+
+### When The Fruit Is Ambiguous
+
+Some periods of genuine practice produce what looks like bad fruit — the "dark night" that John of the Cross described, the stripping of consolations that the tradition recognizes as part of mature development. Distinguishing this from a practice that's genuinely wrong for you requires:
+
+- A trusted guide or director, not self-assessment alone
+- Time enough to see what's on the other side of the difficulty
+- External markers: is the difficulty integrated in function (you're still reliable in your work, in your relationships, in your responsibilities) or is it disintegrating (things falling apart, people leaving, unable to function)
+
+The fruit test is real but it is not a single data point. It is a practice of ongoing discernment in community, over time, with external accountability. Anything less is liable to become confirmation bias.
